@@ -141,7 +141,4 @@ namespace PongGame.Controllers
 ![Игра](Resources/sc2.png)
 
 ## 6. Видео
-[▶ Watch the Pong demo (mp4)](Resources/pong.mp4)
-<video src="Resources/pong.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+![Video](Resources/pong.gif)
