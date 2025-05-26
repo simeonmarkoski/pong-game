@@ -137,10 +137,10 @@ namespace PongGame.Controllers
 
 ## 5. Скриншот
 
-![Главно мени](resources/sc1.png)
-![Игра](resources/sc2.png)
+![Главно мени](Resources/sc1.png)
+![Игра](Resources/sc2.png)
 
 ## 6. Видео
-<video src="resources/pong.mp4" controls width="600">
+<video src="Resources/pong.mp4" controls width="600">
   Your browser does not support the video tag.
 </video>
